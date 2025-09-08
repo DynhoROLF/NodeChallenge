@@ -1,0 +1,22 @@
+# Create a Course
+POST http://localhost:3333/courses
+Content-Type: application/json
+
+{
+  "title": "Curso de Java"
+}
+
+###
+
+# Health Check
+GET http://localhost:3333/health
+
+###
+
+# Get All Courses
+GET http://localhost:3333/courses
+
+###
+
+# Get ID Course
+GET http://localhost:3333/courses/4c6363a9-b572-4a7e-aea3-86dbcfef3142
