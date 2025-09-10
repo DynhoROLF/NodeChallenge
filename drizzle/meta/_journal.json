@@ -15,6 +15,34 @@
       "when": 1757359140105,
       "tag": "0001_faulty_brood",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1757531839355,
+      "tag": "0002_broad_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1757531942309,
+      "tag": "0003_talented_frank_castle",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1757537404957,
+      "tag": "0004_nifty_scalphunter",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1757537661639,
+      "tag": "0005_lazy_marrow",
+      "breakpoints": true
     }
   ]
 }
